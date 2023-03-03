@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ErkinbekovBilimDz_6_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="name_song">name_song</string>
+    <string name="song">Song</string>
+    <string name="number">1</string>
+    <string name="song_timer">1:00</string>
+    <string name="author">author</string>
+    <string name="i_need_a_dollar">I need a Dollar</string>
+    <string name="aloe_blacc">ALOE BLACC</string>
+    <string name="result">Result</string>
+    <string name="result_1">Result</string>
+    <string name="result_song">Result</string>
+</resources>
